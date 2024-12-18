@@ -1,0 +1,17 @@
+abbreviation: PL
+available: false
+classes: 4880
+colour: 151
+id: 0
+label: PLUT
+longName: plutonium
+name: Plutonium
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 41121
+sprite:
+  filename: cargoes/plutonium.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

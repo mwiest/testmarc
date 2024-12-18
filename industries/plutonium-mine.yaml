@@ -1,14 +1,15 @@
-available: false
+available: true
 callbacks: ''
 cargoAcceptance: []
-cargoProduction: []
+cargoProduction:
+- PLUT
 colour: 1
 fundCostMultiplier: 100
 id: 0
 layout:
-- - - 1
+- - - 0
 - - - -1
-name: 'New industry #0'
+name: Plutonium Mine
 placement: anywhere
 probabilityInGame: 5
 probabilityMapGen: 3
@@ -18,26 +19,26 @@ tiles:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/new-industry-0/2.png
+      filename: industries/plutonium-mine/2.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/new-industry-0/1.png
+      filename: industries/plutonium-mine/1.png
       left: -31
       top: 0
 - sprites:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/new-industry-0/4.png
+      filename: industries/plutonium-mine/4.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/new-industry-0/3.png
+      filename: industries/plutonium-mine/3.png
       left: -31
       top: 0
 type: primary
