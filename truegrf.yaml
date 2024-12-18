@@ -1,4 +1,6 @@
-description: A new TrueGRF project
+description: A test TrueGRF project for marc
 license: CC0-1.0
+name: testmarc
 type: industry
+url: https://github.com/mwiest/testmarc
 version: 6
